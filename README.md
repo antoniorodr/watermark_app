@@ -71,7 +71,7 @@ Install the modules form the requierements file.
 $ git clone https://github.com/antoniorodr/watermark_app
 
 # Access
-$ cd watermarking_app
+$ cd watermark_app
 
 ```
 
