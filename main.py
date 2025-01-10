@@ -15,7 +15,8 @@ def gui():
     window.mainloop()
 
 def upload_file():
-    return filedialog.askopenfilename()
+    file = filedialog.askopenfilename(title="Select a File", filetypes=[("PNG files", "*.png"), ("JPG files", "*.jpg")])
+    return file
 
 
 if __name__ == "__main__":
