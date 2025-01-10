@@ -9,19 +9,19 @@
 <h1 align="center">Watermarking_app</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/antoniorodr/watermarking_app?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/antoniorodr/watermark_app?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/antoniorodr/watermarking_app?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/antoniorodr/watermark_app?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/antoniorodr/watermarking_app?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/antoniorodr/watermark_app?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/antoniorodr/watermarking_app?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/antoniorodr/watermark_app?color=56BEB8">
 
-  <img alt="Github issues" src="https://img.shields.io/github/issues/antoniorodr/watermarking_app?color=56BEB8" />
+  <img alt="Github issues" src="https://img.shields.io/github/issues/antoniorodr/watermark_app?color=56BEB8" />
 
-  <img alt="Github forks" src="https://img.shields.io/github/forks/antoniorodr/watermarking_app?color=56BEB8" />
+  <img alt="Github forks" src="https://img.shields.io/github/forks/antoniorodr/watermark_app?color=56BEB8" />
 
-  <img alt="Github stars" src="https://img.shields.io/github/stars/antoniorodr/watermarking_app?color=56BEB8" />
+  <img alt="Github stars" src="https://img.shields.io/github/stars/antoniorodr/watermark_app?color=56BEB8" />
 </p>
 
 <!-- Status -->
@@ -68,7 +68,7 @@ Install the modules form the requierements file.
 
 ```bash
 # Clone this project
-$ git clone https://github.com/antoniorodr/watermarking_app
+$ git clone https://github.com/antoniorodr/watermark_app
 
 # Access
 $ cd watermarking_app
